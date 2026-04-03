@@ -24,13 +24,6 @@ body {
     font-weight: bold;
 }
 
-.hamburger div {
-    width: 30px;
-    height: 4px;
-    background-color: black;
-    margin: 5px 0;
-}
-
 .content {
     text-align: center;
     margin-top: 60px;
